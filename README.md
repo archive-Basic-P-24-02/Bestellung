@@ -1,5 +1,7 @@
 # Bestellung
 
+Teilabschnitte im Struktogramm
+
 ## Iteration 01
 <img width="726" alt="image" src="https://github.com/przygoda/Bestellung/assets/1532178/2f96c616-d487-4ed2-8e8a-5343d0880425">
 
