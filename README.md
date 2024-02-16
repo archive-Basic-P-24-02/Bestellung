@@ -1,16 +1,17 @@
 # Bestellung
 
 ## Iteration 01
-![struktog_2024-02-15 (6)](https://github.com/przygoda/Bestellung/assets/1532178/3b2b8943-e60f-4827-883b-bcff84b7fef0)
+<img width="726" alt="image" src="https://github.com/przygoda/Bestellung/assets/1532178/2f96c616-d487-4ed2-8e8a-5343d0880425">
 
 ## Iteration 02
-![struktog_2024-02-15 (8)](https://github.com/przygoda/Bestellung/assets/1532178/c2a802a1-f126-46c3-9e86-d393dd5dd606)
+<img width="725" alt="image" src="https://github.com/przygoda/Bestellung/assets/1532178/7491b694-ab73-4809-a1e5-9c77ef088ce5">
 
 ## Iteration 03
-![struktog_2024-02-15 (10)](https://github.com/przygoda/Bestellung/assets/1532178/00ccbfb4-1af1-4f31-9e21-476585bfffaf)
+<img width="723" alt="image" src="https://github.com/przygoda/Bestellung/assets/1532178/f0cf1cfa-24d7-4723-b93f-650e10227841">
 
 ## Iteration 04
-![struktog_2024-02-15 (11)](https://github.com/przygoda/Bestellung/assets/1532178/608bf60a-228c-4d69-bd5b-4d530da7c00f)
+<img width="724" alt="image" src="https://github.com/przygoda/Bestellung/assets/1532178/e0502282-b3e5-4852-a2de-dd8e68e0db3d">
 
 ## Iteration 05
-![struktog_2024-02-15 (12)](https://github.com/przygoda/Bestellung/assets/1532178/46f527f7-de00-4577-b0ee-292d6c3d5869)
+<img width="717" alt="image" src="https://github.com/przygoda/Bestellung/assets/1532178/5b759612-ecdf-44af-9a41-9ca9939d5aa1">
+
